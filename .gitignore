@@ -1,0 +1,22 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.booproj
+.vs/
+.idea/
+
+# NEVER publish secrets or game data
+**/StreamingAssets/
+*.dat
+*.keybox*
+lump.dat*
