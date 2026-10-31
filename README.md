@@ -43,3 +43,14 @@ Because AGPL-3.0 is **strong copyleft**, anyone may use and build on this code �
 porting it to mobile — but **any derivative, including a mobile version, must also be released
 as open source under AGPL-3.0.** No one, not even a competitor, can take this code, close its
 source, and monopolize a proprietary mobile version of it. It remains common and open to all.
+
+### Vì sao dự án này mở (Tiếng Việt)
+Dự án này được phát hành mã nguồn mở, miễn phí theo giấy phép **AGPL-3.0**, nhằm xác lập công
+khai rằng đã tồn tại một bản dựng **Unity** độc lập của client này và ai cũng tiếp cận được.
+Mục đích: để **không cá nhân hay công ty nào có thể nhận vơ là người duy nhất / độc quyền có
+khả năng làm ra một client Unity — hay mobile — kiểu này, hoặc giữ lại để trục lợi thương mại.**
+
+Vì AGPL-3.0 là **copyleft mạnh**, bất kỳ ai cũng được dùng và phát triển từ mã nguồn này — kể
+cả chuyển sang mobile — nhưng **mọi bản phái sinh, kể cả bản mobile, CŨNG buộc phải mở mã nguồn
+theo AGPL-3.0.** Không ai, kể cả đối thủ, có thể lấy mã nguồn này, đóng kín lại rồi độc chiếm
+một bản mobile của riêng mình. Nó mãi là của chung, mở cho tất cả.
