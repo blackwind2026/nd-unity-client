@@ -32,7 +32,14 @@ This is an **independent reimplementation**, not affiliated with or endorsed by 
 original rights holders, and it ships none of their assets. All **source code** here is
 © 2026 blackwind2026 and licensed under AGPL-3.0.
 
-## Why AGPL-3.0
-You may use, study, modify, and share this code freely — but **any distributed or
-network-served derivative must also release its complete source under AGPL-3.0.**
-Closed-source commercial redistribution is not permitted.
+## Why this is open
+This project is released as free and open source under **AGPL-3.0** to establish that an
+independent **Unity** implementation of this client exists publicly and is available to
+everyone. It exists so that no individual or company can falsely claim sole or exclusive
+ability to build a Unity — or mobile — client of this kind, or lock it away for commercial
+exploitation.
+
+Because AGPL-3.0 is **strong copyleft**, anyone may use and build on this code — including
+porting it to mobile — but **any derivative, including a mobile version, must also be released
+as open source under AGPL-3.0.** No one, not even a competitor, can take this code, close its
+source, and monopolize a proprietary mobile version of it. It remains common and open to all.
